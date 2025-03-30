@@ -1,6 +1,6 @@
 import React from 'react'
 import EidGreetings from './components/EidGreetings.jsx'
-import { Router, Routes, Route } from "react-router";
+import {Routes, Route } from "react-router";
 
 function App() {
 

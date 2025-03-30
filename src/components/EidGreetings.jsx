@@ -2,7 +2,7 @@ import React, {useEffect} from 'react'
 import img from '/src/assets/25586516_3641.jpg'
 import animated from '/src/assets/6614.jpg'
 import bgSong from '/src/assets/RomjanerOiRojarSheshe.mp3'
-import { useParams } from 'react-router';
+import { useParams } from 'react-router-dom';
 
 function EidGreetings() {
 
